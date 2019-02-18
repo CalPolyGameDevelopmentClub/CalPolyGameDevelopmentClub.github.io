@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Cal Poly Game Development
+email: officers@cpgd.original
+url: https://calpolygamedevelopmentclub.github.io/
+description: "Cal Poly Game Development Club is focused on teaching all aspects of game creation along with providing a community that you can learn from and collaborate with. Simply put, we make games and connect our members with professionals in the game development industry."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,15 +15,13 @@ footer: CPGD
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/CPGameDev
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/CPGameDev
+  - title: linkedin
+    url: https://www.linkedin.com/company/cpgd/about
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/CalPolyGameDevelopmentClub
 
 # Build settings
 markdown: kramdown
